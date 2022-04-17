@@ -1,0 +1,9 @@
+build
+docs/_*
+*.mex*
+*~
+*.pyc
+*.o
+.vscode/
+*.egg-info
+dist/

@@ -1,0 +1,4 @@
+registry:
+- ./trackers.ini
+# stack: votlt2021
+stack: vot2022/lt
